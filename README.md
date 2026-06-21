@@ -265,7 +265,7 @@ DataScience_UTS/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/arikodwianto/DataScience_UTS.git
+git clone https://github.com/suryanitangdiaga/DataScience_UTS.git
 ```
 
 ### 2️⃣ Masuk ke Folder Repository
